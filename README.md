@@ -1,16 +1,31 @@
-# flutter_food
+# Flutter UI - Food
 
-A new Flutter project.
+English------[中文](README_CN.md)
 
-## Getting Started
+### Introduction
 
-This project is a starting point for a Flutter application.
+There are two pages, namely the Splash and Home pages.The Splash page is mainly an introduction and an enter button. The Home page is mainly divided into: menu, information, classification, favorite and surrounding restaurants, the favorite module and nearby restaurants contain ratings and prices, and arrival time.
 
-A few resources to get you started if this is your first Flutter project:
+### Video
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+YouTube : [Watch it on YouTube]()
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bilibili : [Watch it on Bilibili]()
+
+### UI 
+
+ - Design by:  Fire UI  [link](https://www.uplabs.com/posts/free-food-delivery-app)  
+
+
+
+### Food Design UI
+
+![00](00.png)
+
+### Food Final UI
+
+<div align=center> <img src = '01.png' width = '300' >  <img src = '02.png' width = '300' ></div>
+
+
+
+
