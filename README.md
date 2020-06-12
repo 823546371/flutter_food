@@ -8,9 +8,9 @@ There are two pages, namely the Splash and Home pages.The Splash page is mainly 
 
 ### Video
 
-YouTube : [Watch it on YouTube]()
+YouTube : [Watch it on YouTube](https://youtu.be/4NfrVsVUjdg)
 
-Bilibili : [Watch it on Bilibili]()
+Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1ot4y1C7Ef)
 
 ### UI 
 
